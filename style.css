@@ -1,4 +1,13 @@
-header {
-color: rebeccapurple;
+header h2 {
+color: rgb(0, 0, 0);
+
+}
+header h1 {
+
+font-size: 5em;
+color: rgb(192, 22, 22);
+
+
+
 
 }
